@@ -1,3 +1,3 @@
 # Blockchain
 
-This my playground of Blockchain & Testing
+This is my playground of Blockchain & Testing
